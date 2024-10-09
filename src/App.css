@@ -18,7 +18,7 @@ select {
   margin: 5px 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
-  width: calc(20% - 22px); /* Adjust width to fit */
+  width: calc(20% - 22px); 
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 

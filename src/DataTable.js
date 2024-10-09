@@ -1,10 +1,7 @@
-// src/DataTable.js
-
 import React, { useState } from 'react';
-import './App.css'; // This should be in App.js
+import './App.css'; 
 
 
-// Sample data
 const initialData = [
     { lastName: 'Tanaka', firstName: 'Hiroshi', course: 'IT', birthdate: '2000-03-15' },
     { lastName: 'Saito', firstName: 'Yuki', course: 'CS', birthdate: '1998-07-20' },
